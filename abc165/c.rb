@@ -76,4 +76,4 @@ def rec(_a)
 end
 
 _a = []
-print(rec(_a))
+puts rec(_a)
